@@ -1,0 +1,35 @@
+body{
+    background-color: rgba(67, 213, 50, 0.2);
+    
+}
+
+#div1{
+    font-family: sans-serif ;
+    font-size:24px ;
+    color: red;
+    border-width: 8px;
+    border-style: solid;
+    border-color: blue;
+    border-spacing: 20px;
+    border-left-color: brown ;
+    border-top-color: steelblue ;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    background-color: pink;
+    background-image: url("indiagate.jpeg");
+}
+
+#p1{
+    height: 100px;
+    width: 100px;
+    border: solid blue 3px;
+    border-radius: 10px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    background-color: pink;
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: overline;
+    word-spacing: 6px;
+    letter-spacing: 6px;
+}

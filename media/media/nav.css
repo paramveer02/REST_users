@@ -1,0 +1,56 @@
+body {
+    background-color: pink;
+    top: 0;
+}
+
+.panel {
+    height: 600px;
+    width: 100%;
+}
+
+#head {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue;
+    font-size: 22px;
+    background-color: yellow;
+    height: 40px;
+    width: 100%;
+}
+
+#page {
+    height: 550px;
+    width: 100%;
+}
+
+.myvideo {
+    position: fixed;
+    z-index: -1;
+    width: 100%;
+}
+
+#div1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: red;
+    font-size: 22px;
+
+}
+
+#div2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: green;
+    font-size: 22px;
+
+}
+
+nav {
+    display: flex;
+    /* justify-content: space-between;  */
+    padding: 2% 6%;
+    align-items: center;
+}
+
+nav li {
+    list-style: none;
+    padding: 20px 12px;
+    margin: 0%;
+}
